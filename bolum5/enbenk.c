@@ -20,9 +20,6 @@ int main()
 
         i++;
     }
-    
-    
-    
     while (aktifsayi != -1);
 
     printf("\n\nen buyuk: %d\n", enbuyuk);
